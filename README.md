@@ -1,7 +1,3 @@
-Tentu, ini draf `README.md` yang menggabungkan struktur referensi Anda dengan fitur-fitur yang ada di dalam file kode Anda.
-
----
-
 # Tugas Praktikum 1 - Desain Pemrograman Berorientasi Objek (TP1DPBO2425C1)
 
 Saya **Mochamamd Azka Basria** dengan NIM **2405170** mengerjakan Tugas Praktikum 1 dalam mata kuliah Desain Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak akan melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
